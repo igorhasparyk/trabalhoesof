@@ -1,0 +1,50 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="config.css">
+<link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+</head>                       
+  <body>
+    <div class="container"  >
+    <body background="imag/fundo.jpg" width="1920" height="1800">
+    <div class="row">
+      <div><img src="imag/capa.jpg" width="10%" height="15%"></div>
+      <div>
+        <h1 ><font size="15"> S.O.S Brasil</h1>
+        <h2 style="padding-top:25px;">Animais a beira da extinção!!! </h2>
+      </div>
+    </div>  
+       <div class="row">
+      <div class="col-md-3">
+        <img src="imag/arara.jpg">
+         <h3>Arara-azul</h3>         
+        
+      </div>
+      <div class="col-md-3">
+        <img src="imag/lobo.jpg">
+        <h3>Lobo-guará</h3>
+       
+      </div>
+        <div class="col-md-3">
+          <img src="imag/onca.jpg">
+          <h3>Onça Pintada</h3>
+         
+        
+        </div>
+        <div class="row">
+      <div class="col-md-3">
+        <img src="imag/tama.jpg" > 
+        <h3>Tamanduá-bandeira</h3>
+                
+      </div>
+      </div>
+               <div>
+                <div class="row">
+                 <img src="imag/capa2.jpg" width="25%" height="35%" >
+                 </div>        
+                  <h1> <font size="12">Disque e denuncie para ajudar a preservar a fauna brasileira Fone: 555-655-5565</font></h1>       
+                 </div>
+
+  
+</body></html>
